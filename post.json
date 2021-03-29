@@ -1,6 +1,6 @@
 {
 	"origin": ["[prehack:#noun#]#name#: #nountagline#","[prehack:#verb#]#name#: #verbtagline#","[prehack:#adj#]#name#: #adjtagline#"],
-	"name": ["#prehack.capitalize#Hack","#prehack.capitalize#Hacks","#prehack.capitalize#athon", "#prehack.capitalize#Jam", "Hack#prehack.capitalize#"],
+	"name": ["#prehack.capitalize#Hack","#prehack.capitalize#Hack","#prehack.capitalize#Hack","#prehack.capitalize#Hacks","#prehack.capitalize#Hacks","#prehack.capitalize#athon", "#prehack.capitalize#Jam", "Hack#prehack.capitalize#"],
 	"nountagline": ["The hack where #prehack.s# are the key!", "Celebrating the wonders of #prehack.s#.","Believe in the power of #prehack.s#.","#verb.capitalize# your #prehack# #ending#!"],
 	"verbtagline": ["#prehack.capitalize# your way to #outcome#!", "#prehack.capitalize# us with your amazing hacks!"],
 	"adjtagline": ["Show us your #prehack# side!", "#prehack.capitalize# hacks are perfect this #time#."],
